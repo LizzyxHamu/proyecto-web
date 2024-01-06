@@ -1,0 +1,13 @@
+p{
+    color: red;
+
+}
+
+/*ESTE ESTILO AFECTA LOS PARRAFOS*/
+#parrafo {
+    color:aliceblue;
+}
+
+.parrafo{
+    color:blueviolet;
+}
